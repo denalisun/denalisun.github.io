@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "BurbankBigRegularBlack";
+    src: url("fonts/font.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: "BurbankBigRegularBlack";
+    text-align: center;
+}
